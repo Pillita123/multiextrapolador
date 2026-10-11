@@ -12,9 +12,9 @@
 
 *`pkg install nodejs-lts`
 
-*`git clone https://github.com/princekrvert/multigm.git`
+*`git clone https://github.com/Pillita123/multiextrapolador`
 
-*`cd multigm`
+*`cd multiextrapolador`
 
 
 *`npm install `
