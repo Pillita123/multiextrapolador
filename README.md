@@ -1,0 +1,2 @@
+# multiextrapolador
+Script termux
